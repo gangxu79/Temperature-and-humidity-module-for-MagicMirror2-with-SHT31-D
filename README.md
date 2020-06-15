@@ -1,8 +1,9 @@
 # Temperature-and-humidity-module-for-MagicMirror2-with-SHT31-D
 Modified from MMM-HDC1080 module
 
-https://magicmirror.builders/
-https://github.com/MichaelF1/MMM-HDC1080
+MagicMirror2 https://magicmirror.builders/
+
+MMM-HDC1080 module: https://github.com/MichaelF1/MMM-HDC1080
 
 1. install 3rd party module MMM-HDC1080 first
 2. replace the ReadHDC1080_Pi.c
